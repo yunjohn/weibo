@@ -9,7 +9,6 @@
 <div class="container">
     @yield('content')
     @include('layouts._footer')
-    <a href="https://dasdada.com"></a>
 </div>
 </body>
 </html>
